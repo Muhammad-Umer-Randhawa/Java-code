@@ -1,1 +1,1 @@
-# Java-code
+This repo contains all the Java coding exercises and practice problems that I’ve completed during class sessions. It’s a collection of examples, solutions, and small projects that helped me strengthen my understanding of Java concepts and programming logic. Feel free to explore the code, learn along with it, or use it as a reference for your own practice.
